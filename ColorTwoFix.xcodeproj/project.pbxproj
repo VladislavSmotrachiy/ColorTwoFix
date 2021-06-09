@@ -13,6 +13,10 @@
 		521D0B7D26716B5200606C39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 521D0B7C26716B5200606C39 /* Assets.xcassets */; };
 		521D0B8026716B5200606C39 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 521D0B7F26716B5200606C39 /* Preview Assets.xcassets */; };
 		521D0B8326716B5200606C39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 521D0B8126716B5200606C39 /* LaunchScreen.storyboard */; };
+		521D0B8B26716C2600606C39 /* SliderColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521D0B8A26716C2600606C39 /* SliderColor.swift */; };
+		521D0B8D26716C4300606C39 /* ColorValueText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521D0B8C26716C4300606C39 /* ColorValueText.swift */; };
+		521D0B8F26716C5300606C39 /* ColorTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521D0B8E26716C5300606C39 /* ColorTF.swift */; };
+		521D0B9126716C6200606C39 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 521D0B9026716C6200606C39 /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		521D0B7F26716B5200606C39 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		521D0B8226716B5200606C39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		521D0B8426716B5200606C39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		521D0B8A26716C2600606C39 /* SliderColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderColor.swift; sourceTree = "<group>"; };
+		521D0B8C26716C4300606C39 /* ColorValueText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorValueText.swift; sourceTree = "<group>"; };
+		521D0B8E26716C5300606C39 /* ColorTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorTF.swift; sourceTree = "<group>"; };
+		521D0B9026716C6200606C39 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +67,10 @@
 				521D0B7626716B5100606C39 /* AppDelegate.swift */,
 				521D0B7826716B5100606C39 /* SceneDelegate.swift */,
 				521D0B7A26716B5100606C39 /* ContentView.swift */,
+				521D0B9026716C6200606C39 /* ColorView.swift */,
+				521D0B8A26716C2600606C39 /* SliderColor.swift */,
+				521D0B8C26716C4300606C39 /* ColorValueText.swift */,
+				521D0B8E26716C5300606C39 /* ColorTF.swift */,
 				521D0B7C26716B5200606C39 /* Assets.xcassets */,
 				521D0B8126716B5200606C39 /* LaunchScreen.storyboard */,
 				521D0B8426716B5200606C39 /* Info.plist */,
@@ -147,6 +159,10 @@
 			files = (
 				521D0B7726716B5100606C39 /* AppDelegate.swift in Sources */,
 				521D0B7926716B5100606C39 /* SceneDelegate.swift in Sources */,
+				521D0B9126716C6200606C39 /* ColorView.swift in Sources */,
+				521D0B8D26716C4300606C39 /* ColorValueText.swift in Sources */,
+				521D0B8F26716C5300606C39 /* ColorTF.swift in Sources */,
+				521D0B8B26716C2600606C39 /* SliderColor.swift in Sources */,
 				521D0B7B26716B5100606C39 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
